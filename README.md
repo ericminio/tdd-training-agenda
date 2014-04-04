@@ -1,9 +1,9 @@
 Prerequisites
-* TDD cycle
-* coding-dojos: http://codingdojo.org/
+* The participant knows what the TDD cycle is
+* The participant has done a coding-dojos
  
 Learning objectives
-* To be able to identify code smells
+* To be able to identify code smells in a legacy code
 * To be able to choose a refactoring strategy
 * To take advantage of the TDD cycle
 * To take advantage of both the London school and the Chicago school
