@@ -1,6 +1,6 @@
 Prerequisites
 * The participant knows what the TDD cycle is
-* The participant has done a coding-dojos
+* The participant has done a coding kata
  
 Learning objectives
 * To be able to identify code smells in a legacy code
